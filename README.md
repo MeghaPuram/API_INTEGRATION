@@ -62,4 +62,4 @@ View weather parameters including temperature, humidity, wind speed, and pressur
 
 OUTPUT
 
-![Image](https://github.com/user-attachments/assets/ab290392-05f4-400b-b57a-62f6ac42b6fd)
+![Image](https://github.com/user-attachments/assets/a9ce2c4a-7a4d-4d2f-9e5f-ad29daa2d827)
